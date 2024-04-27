@@ -1,0 +1,15 @@
+[submodule "human_number"]
+	path = human_number
+	url = https://github.com/Sergista/human_number
+[submodule "Telegram_bots"]
+	path = Telegram_bots
+	url = https://github.com/Sergista/Telegram_bots
+[submodule "async_py"]
+	path = async_py
+	url = https://github.com/Sergista/async_py
+[submodule "PYQT5-SQL-RATING-LOG-"]
+	path = PYQT5-SQL-RATING-LOG-
+	url = https://github.com/Sergista/PYQT5-SQL-RATING-LOG-
+[submodule "game_avatar"]
+	path = game_avatar
+	url = https://github.com/Sergista/game_avatar
